@@ -1,6 +1,6 @@
 Cellular automata with Agents.jl
 
-The Sugarscape comes from the book Growing Artificial Societies, using the concept of Artificial Life and extending it to growing societies. 
+The Sugarscape comes from Growing Artificial Societies (1996), where the concept of Artificial Life is used and expanded to Artificial Societies. 
 
 
 Implemented in Julia.
